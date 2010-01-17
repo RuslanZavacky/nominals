@@ -1,4 +1,5 @@
 #summary Must read books in electronics from beginners to advanced.
+#labels Featured
 
 = Beginners =
 
