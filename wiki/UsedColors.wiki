@@ -1,4 +1,4 @@
-#Used colors in psd file
+#used colors in psd file
 
 = Color Table =
 
